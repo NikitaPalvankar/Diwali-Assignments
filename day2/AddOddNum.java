@@ -10,8 +10,6 @@ public class AddOddNum {
 		System.out.println("Enter a number: ");
 		int num = sc.nextInt();
 		sumEven(num);
-		
-		
 	}
 	
 	public static void sumEven(int num) {
