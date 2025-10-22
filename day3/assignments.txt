@@ -1,1 +1,19 @@
-
+1. Addition of two numbers 
+o Input: a, b 
+o Output: a + b 
+2. Print multiplication table of a number 
+o Input: Integer n 
+o Output: Table from n × 1 to n × 10 
+3. Print number pattern (e.g., triangle, pyramid) 
+o Input: Rows r 
+o Output: Pattern using loops 
+4. Sum of digits of a number 
+o Input: Integer n 
+o Output: Sum of all digits 
+5. Find GCD and LCM of two numbers 
+o Input: a, b 
+o Output: GCD and LCM 
+================================================================================== 
+Coding Challenges 
+3. You are given an array of size n that contains distinct numbers from 0 to n. Your 
+task is to find the one number that is missing from the array. 
