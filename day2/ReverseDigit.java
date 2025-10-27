@@ -13,7 +13,7 @@ public class ReverseDigit {
 				System.out.println(num1);
 	}
 	    public static int reverse(int n) {
-	        int rev = 0;
+	        int rev = 1;
 
 	        while (n != 0) {
 	            int digit = n % 10;
